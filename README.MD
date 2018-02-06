@@ -1,5 +1,5 @@
 ﻿
-Sitecore Commerce Engine Customize Product plugin
+Sitecore Commerce Engine Customize Product plugin (Sitecore Commerce 9)
 ======================================
 
 This plugin allows the user to customize product it is like letting the customer create their own variant or variation of the product they want to buy. 
